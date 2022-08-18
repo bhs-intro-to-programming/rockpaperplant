@@ -37,7 +37,7 @@
 
 drawLine(9, 21, width, height, 'black')
 
-drawtriagle(width/2, height/2, 10, '');
+drawFilledCircle(width/2, height/2, 10, '');
 
 drawRect(50, 50, 60, 40, 'green');
 
