@@ -34,5 +34,11 @@
     "answer": "6000 - 4000",
     "correct": false,
     "timestamp": 1661380243612
+  },
+  {
+    "name": "Sally's even more apples",
+    "answer": "6432-4000",
+    "correct": true,
+    "timestamp": 1661380297469
   }
 ]
