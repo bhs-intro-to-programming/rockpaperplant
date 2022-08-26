@@ -35,7 +35,7 @@
  *
  */
 
-drawLine(9, 21, width, height, 'black')
+drawLine(9, 21, width, height, 'maroon')
 
 drawFilledCircle(width/2, height/2, 10, '');
 
