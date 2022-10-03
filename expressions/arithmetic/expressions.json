@@ -243,5 +243,54 @@
     "answer": "math.abs(x1+y1+x2+y2)",
     "correct": false,
     "timestamp": 1664831520310
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "math.abs(x1+y1+x2+y2)",
+    "correct": false,
+    "timestamp": 1664831520362
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "math.abs(x1+y1+x2+y2)",
+    "correct": false,
+    "timestamp": 1664831520414
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "math.abs(x1+y1+x2+y2)",
+    "correct": false,
+    "timestamp": 1664831520466
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "math.abs(x1+y1+x2+y2)",
+    "correct": false,
+    "timestamp": 1664831520517
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "math.abs(x1+y1+x2+y2)",
+    "correct": false,
+    "timestamp": 1664831520567
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "math.abs(x1+y1+x2+y2)",
+    "correct": false,
+    "timestamp": 1664831520626
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "sum.abs(x1+y1+x2+y2)",
+    "correct": false,
+    "timestamp": 1664831581961
   }
 ]
