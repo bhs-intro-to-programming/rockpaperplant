@@ -299,5 +299,12 @@
     "answer": "(x2-x1)+(y2-y1)",
     "correct": false,
     "timestamp": 1665521160880
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "Math.abs(x1 - x2)",
+    "correct": false,
+    "timestamp": 1665785053858
   }
 ]
