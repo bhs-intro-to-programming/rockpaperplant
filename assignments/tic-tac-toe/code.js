@@ -6,5 +6,5 @@
 // weeks but for now you can just adapt this code.
 
 registerOnclick((x, y) => {
-  drawText(':)', x, y, 'black', Math.min(width, height) * 0.3);
+  drawText('o', x, y, 'black', Math.min(width, height) * 0.3);
 });
